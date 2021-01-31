@@ -9,7 +9,3 @@ Node.js + TypeScript + Express starter
 <div align="center">
 <a href="https://ultimatecourses.com/courses/typescript" target="_blank"><img width="100%" src="https://ultimatecourses.com/static/banners/ultimate-typescript-leader.svg"></a>
 </div>
-
----
-
-Members, please refer to the [course setup](https://ultimatecourses.com/course/javascript-dom) instructions to get started!
